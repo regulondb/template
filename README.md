@@ -1,4 +1,4 @@
-# Estructura de directorio  para un repositorio de RegulonDB
+# Template: Repositorios de RegulonDB
 
 Cada uno de los repositorios que se encuentran relacionados con el proyecto de RegulonDB (http://regulondb.ccg.unam.mx/) consta de la siguiente estructura de directorios facilitando la localización y ubicación de la información para todas las personas que desean colaborar y ser parte de la comunidad de desarrollo de aplicación y mejoras para RegulonDB.
 
