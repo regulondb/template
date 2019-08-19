@@ -4,14 +4,14 @@ Cada uno de los repositorios que se encuentran relacionados con el proyecto de R
 
 Los directorios que se tienen contemplados son los siguientes:
 
-  **bin**
+  **bin**  
     En esta carpeta tiene como propósito concentrar todos los programas (scripts) que se generen como parte del desarrollo de una aplicación o herramienta a ser incorporada a RegulonDB. O bien, aquellos programas que contribuyan a la mejora de dicho proyecto.
 
-  **results**
+  **results**  
     Este directorio es utilizado para resguardar los archivos obtenidos como resultado de la ejecución de los programas realizados por la aplicación o herramienta.
 
-  **src**
+  **src**  
     Dentro de esta carpeta se localizan los datos que sirvan de entrada para la ejecución de la aplicación o herramienta. Los archivos pueden entontrarse en formato txt, fasta, etc. 
   
-  **tmp**
+  **tmp**  
     Durante el desarrollo de la aplicación o herramienta, aquellos datos, programas o cualquier otro tipo de archivo que sea de uso temporal será ubicado dentro de este directorio. 
