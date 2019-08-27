@@ -16,5 +16,3 @@ Los directorios que se tienen contemplados son los siguientes:
   **tmp**  
     Durante el desarrollo de la aplicación o herramienta, aquellos datos, programas o cualquier otro tipo de archivo que sea de uso temporal será ubicado dentro de este directorio. 
     
-  **data**
-    Repositorio para el resguardo de archivos de datos que funcionan como entrada para el desarrollo o funcionamiento de las aplciaciones o modificaciones del proyecto.
