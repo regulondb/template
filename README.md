@@ -16,3 +16,6 @@ Los directorios que se tienen contemplados son los siguientes:
   **tmp**  
     Durante el desarrollo de la aplicación o herramienta, aquellos datos, programas o cualquier otro tipo de archivo que sea de uso temporal será ubicado dentro de este directorio. 
     
+  **docs**  
+  En esta carpeta se llevará a cabo el control de la documentación relacionada con el proyecto, contemplando manuales de usurio, así como manuales técnicos o de administración.
+    
